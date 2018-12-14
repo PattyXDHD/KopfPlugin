@@ -1,0 +1,8 @@
+name: Kopf
+author: PattyXDHD
+version: 1.0
+main: de.pattyxdhd.kopf.Main
+
+commands:
+ kopf:
+ kreload:
